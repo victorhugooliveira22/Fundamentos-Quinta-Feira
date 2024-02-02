@@ -28,7 +28,7 @@ git pull origin main
 ```
 
 ```
-git oush origin main
+git push origin main
 ```
 
   
