@@ -31,4 +31,39 @@ git pull origin main
 git push origin main
 ```
 
-  
+  ### Comandos Básicos Linux
+
+```
+ls
+cd
+cd ..
+mkdir
+history
+cat
+touch
+rm -r caminho/ do arquivos
+cp caminho_origem caminho_destino
+mc caminho_origem caminho_destino
+```
+
+### Editor de Código
+
+- `VScode`
+- Google Colab
+
+
+## Ambiente Virtual
+
+- Software utilizado para a gestão do ambiente: `conda`
+
+```
+conda env create -f environment.yml
+```
+
+```
+conda activate nome_ambiente
+```
+
+```
+conda env update
+```
